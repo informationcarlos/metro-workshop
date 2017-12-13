@@ -10,6 +10,8 @@ METRO Workshop 12/13/2017 | :sparkles:
 * :cat:
 * :cactus:
 * :rocket:
+* :sparkles:
+* :bicycle:
 
 [google it](https://www.google.com/)
 
